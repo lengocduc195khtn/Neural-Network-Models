@@ -1,0 +1,1 @@
+https://www.analyticsvidhya.com/blog/2022/03/an-overview-on-long-short-term-memory-lstm/#:~:text=Conclusion%201%20Long%20short-term%20memory%20%28LSTM%29%20is%20a,this%20is%20only%20a%20hardware%20constraint.%20More%20items
